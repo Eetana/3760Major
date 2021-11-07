@@ -18,6 +18,8 @@
 
 #include "turtlebot3_gazebo/turtlebot3_drive.h"
 #include <string.h>
+#include <iostream>
+#include <sstream>
 Turtlebot3::Turtlebot3()
   : nh_priv_("~")
 {
