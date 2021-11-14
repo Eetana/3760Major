@@ -1,0 +1,9 @@
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/install/local.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/install.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/apriltag_demo.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/edit_cache.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/apriltag.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/install/strip.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/opencv_demo.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/rebuild_cache.dir
+/home/james/catkin_ws/build_isolated/apriltag/devel/CMakeFiles/list_install_components.dir

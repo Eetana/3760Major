@@ -1,0 +1,2 @@
+apriltag:apriltag_ros/apriltag_ros:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/james/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/james/catkin_ws/install_isolated
